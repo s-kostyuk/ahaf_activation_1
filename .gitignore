@@ -1,0 +1,6 @@
+venv/*
+data/*
+runs/*
+.idea/*
+*.gv*
+__pycache__/*
