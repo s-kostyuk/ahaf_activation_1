@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: AHAF - Reference Implementation in PyTorch
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Kostiuk
+    given-names: Serhii
+    orcid: 'https://orcid.org/0000-0003-4196-2524'
+repository-code: 'https://github.com/s-kostyuk/ahaf_activation_pytorch'
+license: MIT
+commit: 1ec1515d8b0228c83f45b9b09a747f2f6dd3b767
+date-released: '2021-12-13'
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Bodyanskiy"
+    given-names: "Yevgeniy"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Kostiuk"
+    given-names: "Serhii"
+    orcid: "https://orcid.org/0000-0003-4196-2524"
+  doi: "10.20535/srit.2308-8893.2022.1.07"
+  journal: "System research and information technologies"
+  month: 4
+  start: 87 # First page number
+  end: 96 # Last page number
+  title: "Adaptive hybrid activation function for deep neural networks"
+  issue: 1
+  year: 2022
