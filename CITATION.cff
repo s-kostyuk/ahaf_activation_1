@@ -11,6 +11,7 @@ authors:
 repository-code: 'https://github.com/s-kostyuk/ahaf_activation_pytorch'
 license: MIT
 commit: 1ec1515d8b0228c83f45b9b09a747f2f6dd3b767
+doi: "10.5281/zenodo.7792706"
 date-released: '2021-12-13'
 preferred-citation:
   type: article
