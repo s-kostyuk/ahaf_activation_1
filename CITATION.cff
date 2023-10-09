@@ -24,10 +24,11 @@ preferred-citation:
     orcid: "https://orcid.org/0000-0003-4196-2524"
   doi: "10.20535/srit.2308-8893.2022.1.07"
   journal: "System research and information technologies"
-  month: apr
+  month: 04
   start: 87 # First page number
   end: 96 # Last page number
   title: "Adaptive hybrid activation function for deep neural networks"
-  publisher: "Kyiv Politechnic Institute"
+  publisher:
+    name: "Kyiv Politechnic Institute"
   issue: 1
   year: 2022
